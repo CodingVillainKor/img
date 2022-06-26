@@ -1,6 +1,5 @@
-Low level image processing
+# Low-level image processing
 
-2022-02-20
-
-220626_rgb_to_grayscale.ipynb
-link: https://youtu.be/V7_tSoqtGLs
+2022-06-26 : 이미지 데이터 matplotlib.pyplot으로 열기 / 흑백 사진으로 바꾸는데.. jpg는 이상하다?
+- 220626_rgb_to_grayscale.ipynb
+- link: https://youtu.be/V7_tSoqtGLs
