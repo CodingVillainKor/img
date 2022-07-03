@@ -5,6 +5,6 @@
 - link: https://youtu.be/V7_tSoqtGLs
 
 
-2022-07-03 : 이미지 blur 시키기 
+2022-07-03 : 이미지 blur 
 - 220703_image_blur.ipynb
 - link: https://youtu.be/ZvbfjfyEaqo (추가로 220626의 오류 해결 방법 설명)
