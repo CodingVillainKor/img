@@ -8,3 +8,8 @@
 2022-07-03 : 이미지 blur 
 - 220703_image_blur.ipynb
 - link: https://youtu.be/ZvbfjfyEaqo (추가로 220626의 오류 해결 방법 설명)
+
+
+2022-07-10 : 이미지 테두리 구하기 
+- 220710_테두리.ipynb
+- link: https://youtu.be/ZvbfjfyEaqo (추가로 220626의 오류 해결 방법 설명)
