@@ -18,4 +18,4 @@
 2022-07-17 : 이미지 테두리 구하기
 
 - 220717_2차원필터.ipynb
-- link: 
+- link: https://youtu.be/v8GIVLYkuf8
